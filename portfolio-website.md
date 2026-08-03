@@ -102,17 +102,6 @@ The portfolio is designed to grow over time, allowing new projects, skills, and 
 
 ---
 
-## 📈 Future Improvements
-
-- Add project case studies
-- Custom domain
-- Blog section
-- Project search functionality
-- Dark mode (optional)
-- Analytics dashboard
-
----
-
 ## 👩‍💻 Developed By
 
 **Sunaina Ravi**
